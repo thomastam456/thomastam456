@@ -30,5 +30,3 @@ My name is Thomas Tam. I’m currently learning ReactJS.
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=thomastam456&layout=compact)
-
-
