@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![alt text](https://github.com/thomastam456/thomastam456/blob/main/GitHub_banner.jpg?raw=true)
+
 # Hi there 👋
 Welcome to my page!<br>
 My name is Thomas Tam and I am a Frontend Developer.<br>
