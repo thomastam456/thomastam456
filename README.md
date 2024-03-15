@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 
 # Hi there 👋
 Welcome to my page!<br>
-My name is Thomas Tam. I’m currently learning ReactJS.
+My name is Thomas Tam and I am a Frontend Developer.<br>
+I’m currently learning ReactJS & Flutter.
 
 ## Technologies & Tools
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-1?style=flat&logo=Visual%20Studio%20Code&logoColor=fff&color=2a96df)
 ![Static Badge](https://img.shields.io/badge/React-1?style=flat&logo=react&logoColor=fff&color=65cee3)
+![Static Badge](https://img.shields.io/badge/Flutter-1?style=flat&logo=flutter&color=40d0fd)
 ![Static Badge](https://img.shields.io/badge/HTML5-1?style=flat&logo=html5&logoColor=fff&color=e95225)
 ![Static Badge](https://img.shields.io/badge/JavaScript-1?style=flat&logo=javascript&color=%23000)
 ![Static Badge](https://img.shields.io/badge/jQuery-1?style=flat&logo=jquery&color=%230467ab)
